@@ -1,10 +1,10 @@
-Simplify the creation of new Express.js Apps
-========
+# Simplify the creation of new Express.js Apps
+
 
 This project aims to simplify the creation of new Express.js projects that adhere to best practices.
 
-Project Roadmap
---------
+## Project Roadmap
+
 
 * Version 0.1: Proof of concept / spike
 * Version 0.2: Modularization and unit tests
@@ -17,8 +17,7 @@ Project Roadmap
 * Version 0.9: API stability
 * Version 1.0: Production ready - inclusion of example app layouts
 
-How to help
--------
+## How to help
 
 What are the most difficult things you've encountered with starting Express.js apps? (please file an issue with details)
 
@@ -29,8 +28,7 @@ What best practices do you feel make Express apps more maintainable? cf:
 * Please suggest more to consider or discuss these listed above by filing an issue
 * Help make the code better, write tests, debug, qa and use the module
 
-Created By
-------
+## Created By
 
 Hi, I'm Matthew Nuzum, a web developer and professional trainer who has taught classes on web design in general and web development with Node.js. 
 
