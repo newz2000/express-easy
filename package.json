@@ -1,0 +1,27 @@
+{
+  "name": "express-simple",
+  "version": "0.1.0",
+  "description": "Simplify the creation of new Express.js projects that adhere to best practices.",
+  "main": "index.js",
+  "scripts": {
+    "test": "tests/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:newz2000/express-simple.git"
+  },
+  "keywords": [
+    "Express",
+    "Express.js",
+    "Express",
+    "config",
+    "Simplify",
+    "express"
+  ],
+  "author": "Matthew Nuzum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/newz2000/express-simple/issues"
+  },
+  "homepage": "https://github.com/newz2000/express-simple"
+}
