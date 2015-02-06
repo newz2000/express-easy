@@ -37,3 +37,9 @@ I've watched users struggle to get started with Node.js and I'd like to make it 
 I think we can do more by working with the tools.
 
 I love the simplicity and flexibility of Express.js and would like to see projects that simplify common tasks without changing the nature or semantics. Projects created with express-simple will work just like any other Express.js project, including the use of existing tutorials.
+
+	___ _______________ _____________   
+	   |               |             )  » » » »»
+	== | == EXPRESS == | ==  EASY  ==)   »»» »»» »»
+	   |               |             )  » » » »»
+	-O-^-O-O-------O-O-^-O-O------O-O= 
