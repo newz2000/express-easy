@@ -9,7 +9,7 @@ Please use the [Issue tracker](https://github.com/newz2000/express-easy/issues) 
 ## Project Roadmap
 
 
-* _Version 0.1:_ Proof of concept / spike - no tests unstable
+* __Version 0.1:__ Proof of concept / spike - no tests unstable
 * Version 0.2: Modularization and unit tests
 * Version 0.3: Command line utility
 * Version 0.4: Database support
