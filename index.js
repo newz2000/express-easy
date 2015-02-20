@@ -1,6 +1,7 @@
 var appRoot = require('app-root-path');
 var _ = require('underscore');
 var express = require('express');
+var router = express.Router();
 var path = require('path');
 var favicon = require('serve-favicon');
 var logger = require('morgan');
@@ -68,6 +69,12 @@ module.exports = function(localConfig) {
   }
 
   app = express();
+
+  app.addRoute = router;
+  app.enableRouting = function(prefix) {
+    if(!prefix) prefix = '/';
+    app.use(prefix, app.addRoute);
+  }
 
   // view engine setup
   app.set('views', path.join(config.appRoot, 'views'));
