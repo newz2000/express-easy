@@ -3,13 +3,36 @@
 
 This project aims to simplify the creation of new Express.js projects that adhere to best practices.
 
-# WARNING: This is not stable and not ready for use!
+# WARNING: This is not stable yet
 Please use the [Issue tracker](https://github.com/newz2000/express-easy/issues) to start a discussion and shape the implementation.
+
+## Getting started
+
+Install the module globally:
+```bash
+$ npm install -g express-easy-generator
+```
+
+Now create a new project:
+```bash
+$ express-easy new-project
+$ cd new-project
+```
+
+Install dependencies and run:
+```bash
+$ npm install
+$ npm start
+```
+
+Start adding your own code to app.js and marvel at how easy it is!
+
+Report problems and feature requests on the [Issue tracker](https://github.com/newz2000/express-easy/issues).
 
 ## Project Roadmap
 
 
-* __Version 0.1:__ Proof of concept / spike - no tests unstable
+* __Version 0.1:__ Proof of concept / spike - no tests, unstable
 * Version 0.2: Modularization and unit tests
 * Version 0.3: Command line utility
 * Version 0.4: Database support
