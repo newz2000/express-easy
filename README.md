@@ -1,7 +1,9 @@
 # Simplify the creation of new Express.js Apps
 
 
-This project aims to simplify the creation of new Express.js projects that adhere to best practices.
+This project aims to simplify the creation of new Express.js projects that adhere to best practices. When you use express-easy in your project, it uses conventions to pre-configure your application with common defaults, allowing your app to have far less configuration.
+
+A typical starter express-easy application will have 80% less code than a standard express app and come pre-configured to facilitate TDD, sessions and HTML based templates. This allows beginners to get started quicker and experienced developers to focus on their code rather than configuration.
 
 # WARNING: This is not stable yet
 Please use the [Issue tracker](https://github.com/newz2000/express-easy/issues) to start a discussion and shape the implementation.
