@@ -77,7 +77,8 @@ module.exports = function(localConfig) {
 
   // view engine setup
   app.set('views', path.join(config.appRoot, 'views'));
-  app.set('view engine', 'hbs');
+  app.set('view engine', 'html');
+  app.engine('html', require('hbs').__express);
 
   // uncomment after placing your favicon in /public
   //app.use(favicon(config.appRoot + '/public/favicon.ico'));

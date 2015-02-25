@@ -29,6 +29,9 @@ $ npm start
 
 Start adding your own code to app.js and marvel at how easy it is!
 
+## Quick video overview
+<iframe width="640" height="360" src="https://www.youtube.com/embed/FV12Fpz9FwI?rel=0" frameborder="0" allowfullscreen></iframe>
+
 Report problems and feature requests on the [Issue tracker](https://github.com/newz2000/express-easy/issues).
 
 ## Project Roadmap
