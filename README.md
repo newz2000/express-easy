@@ -30,7 +30,8 @@ $ npm start
 Start adding your own code to app.js and marvel at how easy it is!
 
 ## Quick video overview
-<iframe width="640" height="360" src="https://www.youtube.com/embed/FV12Fpz9FwI?rel=0" frameborder="0" allowfullscreen></iframe>
+[![ScreenShot](https://work.tekrs.com.s3.amazonaws.com/video-cover.png)](https://www.youtube.com/watch?v=FV12Fpz9FwI&feature=youtu.be)
+
 
 Report problems and feature requests on the [Issue tracker](https://github.com/newz2000/express-easy/issues).
 
