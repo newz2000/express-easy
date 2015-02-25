@@ -1,6 +1,6 @@
 {
   "name": "express-easy",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Simplify the creation of new Express.js projects that adhere to best practices.",
   "main": "index.js",
   "scripts": {
